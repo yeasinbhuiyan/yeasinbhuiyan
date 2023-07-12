@@ -22,7 +22,7 @@ I'm expertise in React.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, HTML, F
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeasinbhuiyan)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasinbhuiyan&layout=pie)](https://github.com/anuraghazra/github-readme-stats) <span className="m-10">aefs</span>  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasinbhuiyan&theme=github_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasinbhuiyan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)                ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasinbhuiyan&theme=github_dark&show_icons=true)
   
 
 ![GitHub metrics](https://metrics.lecoq.io/yeasinbhuiyan)  
