@@ -26,8 +26,7 @@ I'm expertise in React.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, HTML, F
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasinbhuiyan&theme=github_dark&show_icons=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeasinbhuiyan)  
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/yeasinbhuiyan)  
 
