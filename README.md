@@ -1,7 +1,7 @@
 
 ## Hi there 👋, I'm Md. Yeasin Arafat Bhuiyan
 # Web Developer
-![MERN Stack Developer](https://i.ibb.co/XJGvnqd/yeasin.png)
+![MERN Stack Developer](https://i.ibb.co/GFq56yb/banner.jpg)
 
 # 💫 About Me:
 <br>I'm expertise in React.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, HTML, Firebase, and CSS. I'm highly proficient in JavaScript and have experience working with JWT authentication and building and consuming APIs. Additionally, I am familiar with Node.js and its powerful capabilities. In my toolkit, I utilize various tools to enhance my development process. These include Firebase for rapid prototyping, VS Code as my preferred code editor, Figma for design collaboration, Netlify and Vercel for deployment, and Git and GitHub for version control and collaboration. I am also proficient in using Chrome Dev Tools for debugging and optimizing web applications.<br><br>
